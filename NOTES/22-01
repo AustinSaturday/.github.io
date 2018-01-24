@@ -1,0 +1,22 @@
+Open graph tags for Ecommerce
+Div is a plain candy wrapper- colour it in with CSS with ID and Class
+ID has to be unique- Can have multiple overlapping class
+
+<link       FOR CSS    >     No need to close
+rel= define relationship
+type= determine type of Resources
+href= what's the URL bro? (relative path is the best /docs/stylesheet)
+
+<script>    For JAVASCRIPT    </script>
+src= what's the URL bro? (again relative path is best)
+
+Block level elements occupy 100% of the available space
+Block level elements always start a new line
+Inlevel elements are the reverse
+
+Look for bootstrap link in page source
+Bootstrap CSS has a bunch of out of the box components
+There are other frameworks with their own components
+
+Resources:
+Mozilla Development Network

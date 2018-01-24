@@ -1,0 +1,46 @@
+Need to do catchup!
+
+Most browsers can handle comments
+<!----HTML Comment closing tags, particularly 3rd party---->
+IE is different
+<!---[if IE 9]> Internet Explorer comment <![end if]--->
+You can run extra html to IE users- targeting specific versions.
+Run feature detection to detect compatibility of all browsers
+
+HTML Table
+<table></table>
+<tr> table row
+<td> table data
+<th> table head
+<thead> table head
+<tbody> table body
+<tfoot> table footer
+colspan attribute across collumns of <td> or <th>
+rowspan attribute across rows of <td> or <th>
+
+<video> and <source> tags can be used for video
+Multiple tags are possible
+src="" path
+type="" description
+Can type inside the tag, outside of the attributes with an error message
+
+<form></form>
+target="" Where is the data being sent
+method="" What kind of HTTP request to transmit the data, usually get or post
+enctype="" for file submit= multipart/form-data
+<label>   to form fields
+<input>   are for text or other inputs (PUT IN type="number" IN FORMS)
+<select>  for dropdown
+<option>  for options
+<textarea> for larger text areas
+<button>  for button tags
+Must contain submit button
+DO NOT NEST FORMS
+
+Peer programming is pretty fun
+
+Homework
+=============
+Git branch homework catch-up
+Form input types type="number, phone, text"
+Do more HTML structuring for your index.html
